@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OOP, APIs, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://shannonbramwell.netlify.app/](https://shannonbramwell.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shannonbramwell.com)
 
 - 📫 How to reach me **s.bramwell@live.com**
 
