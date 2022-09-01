@@ -2,11 +2,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Shannon</h1> -->
 <!-- <h3 align="center">A full-stack web developer</h3> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbramwel" alt="sbramwel" /></a> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning OOP, APIs, Node.js<br>👨‍💻 All of my projects are available at [https://shannonbramwell.com)<br>📫 How to reach me s.bramwell@live.com<br>📄 Know about my experiences https://www.linkedin.com/in/shannon-bramwell/<br>⚡ Fun fact I like to make hand-made natural soaps
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shannon%20bramwell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shannon-bramwell/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shannonbramwe11) 
