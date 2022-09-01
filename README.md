@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shannon</h1>
-<h3 align="center">A full-stack web developer</h3>
+<img align="center">![image (1)](https://user-images.githubusercontent.com/59816165/188026019-ea3ebdf1-c835-4623-bdf9-a897546fb0f2.png)
+<!-- <h1 align="center">Hi 👋, I'm Shannon</h1> -->
+<!-- <h3 align="center">A full-stack web developer</h3> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbramwel" alt="sbramwel" /></a> </p>
 
@@ -23,8 +24,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sbramwel&icon=9&color=5)](https://visitcount.itsvg.in)
+
